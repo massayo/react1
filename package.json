@@ -1,7 +1,7 @@
 {
   "name": "22tut",
   "version": "0.1.0",
-  "homepage": "https://massayo.github.io/react2",
+  "homepage": "https://massayo.github.io/react1",
   "private": true,
   "dependencies": {
     "axios": "^1.7.7",
